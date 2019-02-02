@@ -1,2 +1,2 @@
 # BUOU-LIFE
-It is Unity 2D Game. 
+NGUI Version : 270 (ngui270.unitypackage)
